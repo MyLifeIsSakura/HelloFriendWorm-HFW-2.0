@@ -6,7 +6,7 @@ I am a worm and virus coder and this is my best work so far, the HelloFriend Wor
 
 what de worm doing?:
 When hello_friend.txt.vbs is ran, it infects all VBS and VBE files, it sets up multiple copies of itself to oviod termination
-afterwards it makes a shortcut to you contacts and them all sends them this email:
+afterwards it makes a shortcut to your contacts and them all sends them this email:
 
 Subject:HelloFriend
 
